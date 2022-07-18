@@ -31,12 +31,12 @@ The program contains example images for `Sprite` type, You can execute the progr
 
 ## Issues
 
-* `cv.imgshow()` 's second parameter cannot set with `cv.WINDOW_AUTOSIZE`
+- `cv.imgshow()` 's second parameter cannot set with `cv.WINDOW_AUTOSIZE`
 
 ## Document references
 
-* [合併圖片](https://blog.csdn.net/MDwalu/article/details/113774851)
-* [預備知識](https://blog.csdn.net/Conyrol/article/details/96781786)
+- [合併圖片](https://blog.csdn.net/MDwalu/article/details/113774851)
+- [預備知識](https://blog.csdn.net/Conyrol/article/details/96781786)
 
 ## License
 

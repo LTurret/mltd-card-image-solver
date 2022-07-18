@@ -6,7 +6,7 @@ images = {}
 cv_images = []
 axis = [1, 1, 0, 1, 0]
 
-path_prefix = "./Sprite"
+path_prefix = "./images/Sprite"
 output_path = "./build/"
 
 if not os.path.isdir(output_path):

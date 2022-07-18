@@ -42,4 +42,4 @@ The program contains example images for `Sprite` type, You can execute the progr
 
 Licensed under [MIT](LICENSE).
 
-The copyright of any characters in the image(includes .psd, .png) belongs to [Bandai Namco Entertainment](https://www.bandainamcoent.co.jp/).  
+The copyright of any characters in the image belongs to [Bandai Namco Entertainment](https://www.bandainamcoent.co.jp/).  

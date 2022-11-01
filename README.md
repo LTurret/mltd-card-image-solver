@@ -2,6 +2,11 @@
 
 A python based tool, used for merging cropped images.
 
+## Algorithms
+
+The image is seperated by several parts, and you can see the rotation vectors simpely.
+![Image](./document/algorithms.png)
+
 ## Usage
 
 ### Pre-processing

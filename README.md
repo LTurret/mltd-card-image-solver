@@ -33,6 +33,7 @@ The program contains example images for `Sprite` type, You can execute the progr
 
 - [ ] Add `argparse` functions  
 - [ ] Add `Texture2D` type of method
+- [ ] Add GUI
 
 ## Issues
 

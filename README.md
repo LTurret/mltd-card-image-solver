@@ -4,7 +4,7 @@ A python based tool, used for merging cropped images.
 
 ## Algorithms
 
-The image is seperated by several parts, and you can see the rotation vectors simpely.
+Several parts separate the image, and you can see the rotation vectors.
 ![Image](./document/algorithms.png)
 
 ## Usage
